@@ -33,7 +33,7 @@ This repository contains a Python application for detecting potato leaf diseases
 
 ## Dataset
 
-The dataset used for training the model can be downloaded from [Kaggle](https://www.kaggle.com/datasets/arjuntejaswi/plant-village). 
+The dataset used for training the model can be downloaded from [here](https://kaggle.com/datasets/c5eba7bed24ecf791e66c0de929b63fe8ae1af7758847b357ee06b06f873de8c). 
 
 ## Pre-trained Models (required)
 

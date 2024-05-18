@@ -9,8 +9,9 @@ This repository contains a Python application for detecting potato leaf diseases
 - Pillow
 - NumPy
 - TensorFlow
+
 **Note: This code is designed to run without errors only in Python 3.11.6 version.**
-  
+
 ## Installation
 
 1. Install the required packages:

@@ -20,14 +20,14 @@ train_datagen = ImageDataGenerator(
 valid_datagen = ImageDataGenerator(rescale=1.0/255.0)
 
 train_generator = train_datagen.flow_from_directory(
-    'D:\\Files\\Projects\\PLDI\\Code\\Potato\\Train',  # Update with the full path
+    '\\Potato Disease Dataset\\Train',  # Update with the full path
     target_size=(224, 224),
     batch_size=32,
     class_mode='categorical',
     classes=['Potato___Early_blight', 'Potato___healthy', 'Potato___Late_blight'])
 
 valid_generator = valid_datagen.flow_from_directory(
-    'D:\\Files\\Projects\\PLDI\\Code\\Potato\\Valid',  # Update with the full path
+    '\\Potato Disease Dataset\\Valid',  # Update with the full path
     target_size=(224, 224),
     batch_size=32,
     class_mode='categorical',

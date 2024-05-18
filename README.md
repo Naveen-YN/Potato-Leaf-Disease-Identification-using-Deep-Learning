@@ -1,1 +1,1 @@
-# Potato-Leaf-Disease-Detection-using-Deep-Learning
+# Potato Leaf Disease Detection using Deep Learning

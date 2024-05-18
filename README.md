@@ -16,8 +16,9 @@ This repository contains a Python application for detecting potato leaf diseases
     ```bash
     pip install PyQt5 Pillow numpy tensorflow
     ```
+**Note: This code is designed to run without errors only in Python 3.11.6 version.**
 
-2. Download the pre-trained model [here](#pre-trained-models) and place `potato_leaf_disease_model.h5` in the project directory.
+2. Download the pre-trained model [here](https://drive.google.com/drive/folders/1sWTD2RgQHXCxLnaZD2C6RQqrQDZKbfHC?usp=sharing) and place `potato_leaf_disease_model.h5` in the project directory.
 
 ## Usage
 

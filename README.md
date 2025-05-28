@@ -53,4 +53,5 @@ Training the model is optional. The application comes with a pre-trained model, 
     ```
 
 4. The trained model will be saved as `potato_leaf.h5`.
+   
 
